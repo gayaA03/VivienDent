@@ -1,0 +1,1 @@
+$codingeek="https://codingeek.net/"; $buynow="https://themeforest.net/item/moristan-hospital-html-template/25513673";
